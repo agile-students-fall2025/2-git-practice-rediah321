@@ -15,3 +15,5 @@ The article discusses practical tips like choosing meaningful variable names, wr
 ✨ I think clean code principles are something every developer should revisit regularly, no matter how experienced they are. 
 
 Shaf Comment : Hey i dont find this interesting
+
+Steven Comment : Clean Code is simple,using a complex algorithm only understood by you and not other developers is not clean code.
